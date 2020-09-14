@@ -1,4 +1,4 @@
-# Know your stash
+# yarnies ltd.
 *by* :fox_face: the knitter *and* the lonely :wolf:  
 
 :pencil: Keep track of yarns in the stash  
